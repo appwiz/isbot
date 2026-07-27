@@ -28704,5 +28704,13 @@
   "DuckDuckGo/9 CFNetwork/3826.600.41 Darwin/24.6.0",
   "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.128 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
   "ethicrawl/0.1 (Ethical crawler respecting robots and AI directives; http://ethicrawl.ai/crawler; contact@ethicrawl.ai)",
-  "DuckDuckGo/8 CFNetwork/3860.600.12 Darwin/25.5.0"
+  "DuckDuckGo/8 CFNetwork/3860.600.12 Darwin/25.5.0",
+  "AdsBot-Google (+http://www.google.com/adsbot.html) [ip:66.249.92.160]",
+  "AdsBot-Google (+http://www.google.com/adsbot.html) [ip:66.249.92.38]",
+  "Jersey/${project.version} (HttpUrlConnection 17.0.19)",
+  "Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/150.0.7871.124 Mobile Safari/537.36",
+  "DuckDuckGo/4 CFNetwork/3860.600.12 Darwin/25.5.0",
+  "Python/3.12 aiohttp/3.14.2",
+  "Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML%2C like Gecko; Mediapartners-Google) Chrome/150.0.7871.124 Mobile Safari/537.36",
+  "Python/3.14 aiohttp/3.14.3"
 ]
